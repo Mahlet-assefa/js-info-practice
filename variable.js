@@ -10,4 +10,9 @@ alert(message);
 
 //js is case sensetive
 
-//const
+// const - unchanged
+
+const citizenship = "Ethiopia"
+citizenship = "pakistan"
+alert(citizenship);
+
