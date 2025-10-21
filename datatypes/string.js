@@ -4,4 +4,5 @@ alert(`hello ${1}`);
 alert(`hello ${"name"}`);
 // output = hello name
 alert(`hello ${name}`)
-// output = hello Ilya
+// output = hello Ily
+//null and undefined
